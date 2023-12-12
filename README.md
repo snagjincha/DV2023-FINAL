@@ -1,5 +1,6 @@
 # DV2023-FINAL
-dash
+
+대시보드 만들기 실습
 
 "hello world"
 
